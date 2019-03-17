@@ -1,0 +1,9 @@
+{
+    "app.def":"UecForum",
+    "app.level":0,
+    "app.debug":true,
+    "app.title":"Unix European Company - Community Forum",
+    "app.copyright":"Unix European Company - 2019 (based on lnxmcp , ln4 and BOOTSTRAP.i386)",
+    "app.logourl":"/ueclogo2.jpeg"
+
+}

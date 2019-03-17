@@ -1,0 +1,10 @@
+{
+    "forum":{
+        "type":"page",
+        "module":"UecForum",
+        "name":"home"
+    },
+    "bye":{
+        "type":"exit"
+    }
+}
