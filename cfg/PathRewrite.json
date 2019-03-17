@@ -2,5 +2,4 @@
     "/":"Location: /UnixForum",
     "/forumhome/*":"Location: /UnixForum",
     "*/forum/*":"Location: /UnixForum"
-
 }
