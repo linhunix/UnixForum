@@ -5831,12 +5831,12 @@ a.badge:focus {
   font-size: 18px;
   line-height: 20px;
   color: #ffffff;
-  background-color: #00aaaa;
+  background-color: #002caa;
   border: 4px double #ffffff;
   -webkit-border-radius: 0;
      -moz-border-radius: 0;
           border-radius: 0;
-  box-shadow: 0 0 0 4px #00aaaa;
+  box-shadow: 0 0 0 4px #002caa;
 }
 
 .hero-unit h1 {
