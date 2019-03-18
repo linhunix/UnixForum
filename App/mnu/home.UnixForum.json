@@ -1,7 +1,7 @@
 {
     "forum":{
         "type":"page",
-        "module":"UecForum",
+        "module":"UnixFans",
         "name":"home"
     },
     "bye":{
