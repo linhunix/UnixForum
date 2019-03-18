@@ -9,7 +9,10 @@ $lnxmcp_phar = array(
         "mail" => array ("module" => "Mail", "type" => "serviceCommon") // use zend mail 
     ),
 );
-require __DIR__ . "/../lnxmcp/mcp/Head.php";
-#require __DIR__ . "/dist/lnxmcp.phar";
+if ( file_exists( __DIR__ . "/../lnxmcp/mcp/Head.php")) {
+    require __DIR__ . "/../lnxmcp/mcp/Head.php";
+} else {
+    require __DIR__ . "/dist/lnxmcp.phar";
+}
 //error_log(print_r(lnxmcp(),1));
-lnxmcp()->Block("home",array(),"UecForum");
+#lnxmcp()->Block("home",array(),"UecForum");

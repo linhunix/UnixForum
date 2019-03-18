@@ -246,8 +246,8 @@ a {
 
 a:hover,
 a:focus {
-  color: #fefe54;
-  background: #aa5500;
+  color: #000000;
+  background: #0ba3bc;
 }
 
 .img-rounded {
@@ -5674,6 +5674,8 @@ a.badge:focus {
 .accordion-heading .accordion-toggle {
   display: block;
   padding: 8px 15px;
+  color: white;
+  background-color: #002caa;
 }
 
 .accordion-toggle {
