@@ -11,7 +11,7 @@ $lnxmcp_phar = array(
     ),
 );
 //require __DIR__ . "/mcp/lnxmcp.phar";
-**exit();
+//exit();
 if ( file_exists( __DIR__ . "/../lnxmcp/mcp/Head.php")) {
     require __DIR__ . "/../lnxmcp/mcp/Head.php";
 } else {
