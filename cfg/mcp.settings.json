@@ -17,6 +17,8 @@
             "Shell":"/ForumShell"
         },
         "About":"http://unix.eu.com"
-    }
+    },
+    "app.gfx.default.menu":"Base",
+    "app.gfx.default.tag":"Base"
 
 }
