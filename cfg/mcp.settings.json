@@ -2,7 +2,7 @@
     "app.def":"UnixFans",
     "app.level":0,
     "app.debug":true,
-    "app.title":"Unix European Company - Unix Fans Community Forum",
+    "app.title":"Unix Fans Community Forum",
     "app.copyright":"Unix European Company - 2019 (based on lnxmcp , ln4 and BOOTSTRAP.i386)",
     "app.logourl":"/ueclogo2.jpeg",
     "app.topmenu":{
@@ -18,7 +18,5 @@
         },
         "About":"http://unix.eu.com"
     },
-    "app.gfx.default.menu":"Base",
-    "app.gfx.default.tag":"Base"
-
+    "app.gfx.default":["Base","Bs386"]
 }

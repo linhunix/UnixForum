@@ -7,8 +7,10 @@
     </div>
     <div id="collapseOne" class="accordion-body collapse in">
       <div class="accordion-inner">
-        Anim pariatur cliche...
-      </div>
+        <textarea nam="edit1" style="width:100%;height:300px;">
+          test to check if work !!
+        </textarea>
+       </div>
     </div>
   </div>
   <div class="accordion-group">
